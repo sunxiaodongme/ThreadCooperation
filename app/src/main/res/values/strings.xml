@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ThreadCooperation</string>
+
+    <string name="queue_size_tip">仓储上限5个，当前大小：%s</string>
+
+</resources>
